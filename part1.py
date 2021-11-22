@@ -25,3 +25,5 @@ if number < smallest:
   smallest = number
   
 print("The smallest number is ", smallest)
+
+gotta compare using list
